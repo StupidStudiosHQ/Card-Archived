@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cardarchived.com/schemas/archive-record.schema.json",
+  "title": "CardArchived Archive Record",
+  "type": "object",
+  "required": ["archive_id", "record_version", "archive_status", "object", "fingerprint", "sources"],
+  "properties": {
+    "archive_id": {"type": "string", "pattern": "^SL-[0-9]{6}$"},
+    "record_version": {"type": "string"},
+    "archive_status": {"type": "string"},
+    "permanent_path": {"type": "string"},
+    "object": {
+      "type": "object",
+      "properties": {
+        "title": {"type": "string"}, "year": {"type": ["string","null"]}, "manufacturer": {"type": ["string","null"]},
+        "set": {"type": ["string","null"]}, "card_number": {"type": ["string","null"]}, "subject": {"type": ["string","null"]},
+        "holder": {"type": ["string","null"]}, "grade": {"type": ["string","null"]}, "certification": {"type": ["string","null"]}
+      }
+    },
+    "creative_attribution": {
+      "type": "object",
+      "properties": {"status": {"type":"string"}, "photographer": {"type":["string","null"]}, "illustrator": {"type":["string","null"]}, "designer": {"type":["string","null"]}, "notes": {"type":["string","null"]}}
+    },
+    "story": {"type": ["string","null"]},
+    "art": {"type": ["string","null"]},
+    "notables": {"type": "array", "items": {"type":"string"}},
+    "why_this_object_matters": {"type": ["string","null"]},
+    "fingerprint": {
+      "type": "object",
+      "required": ["method", "features"],
+      "properties": {"method":{"type":"string"}, "lock_status":{"type":"string"}, "features":{"type":"array", "items":{"type":"object", "required":["id","description"], "properties":{"id":{"type":"string"},"grade":{"type":["string","null"]},"description":{"type":"string"},"comparison_rule":{"type":["string","null"]}}}}}
+    },
+    "verification": {"type":"object"},
+    "provenance": {"type":"array", "items":{"type":"object"}},
+    "market": {"type":"object"},
+    "images": {"type":"array", "items":{"type":"object"}},
+    "sources": {"type":"array", "items":{"type":"object"}}
+  }
+}
