@@ -1,0 +1,18 @@
+{
+  "archive_id": "SL-000001",
+  "record_version": "canonical-migration-1",
+  "archive_status": "REGISTERED / FINGERPRINT PENDING",
+  "permanent_path": "/records/SL-000001/",
+  "object": {"title":"Fantasia — Reel Piece of History","year":null,"manufacturer":"Upper Deck","set":"Disney Treasures","card_number":"PH2","subject":"Fantasia","holder":null,"grade":null,"certification":null},
+  "creative_attribution": {"status":"Attribution Under Research","photographer":null,"illustrator":null,"designer":null,"notes":"No creator attribution is registered without verification."},
+  "story": null,
+  "art": null,
+  "notables": [],
+  "why_this_object_matters": null,
+  "fingerprint": {"method":"pending preserved-source-image review","lock_status":"NOT YET LOCKED","features":[]},
+  "verification": {"verify_this_card":"Not yet registered","verify_authenticity":"No independent CardArchived authentication conclusion registered"},
+  "provenance": [],
+  "market": {"status":"Not yet tracked","sales":[]},
+  "images": [{"status":"Legacy archive states images are retained as visual documentation; assets not yet migrated into this repository record."}],
+  "sources": [{"type":"legacy_archive","title":"Slab Lab Archive — SL-000001","version":"0.2"}]
+}
