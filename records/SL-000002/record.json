@@ -1,0 +1,24 @@
+{
+  "archive_id":"SL-000002",
+  "record_version":"canonical-migration-1",
+  "archive_status":"REFERENCE LOCKED",
+  "permanent_path":"/records/SL-000002/",
+  "object":{"title":"1960 Topps #28 Brooks Robinson","year":"1960","manufacturer":"Topps","set":"1960 Topps","card_number":"28","subject":"Brooks Robinson","holder":"SGC","grade":"4.5 VG-EX+","certification":"5377831"},
+  "creative_attribution":{"status":"Attribution Under Research","photographer":null,"illustrator":null,"designer":null,"notes":"No creator attribution registered without independent verification."},
+  "story":null,"art":null,"notables":[],"why_this_object_matters":null,
+  "fingerprint":{"method":"image-derived / non-destructive","lock_status":"REFERENCE LOCKED — v1.0","features":[
+    {"id":"M01","grade":null,"description":"Upper left red field — small dark print speck; candidate print anomaly consistent across images.","comparison_rule":"Compare location and morphology; do not rely on generic red-field design."},
+    {"id":"M02","grade":null,"description":"Action figure edge — distinct edge contour and registration relationship between player arm and red background.","comparison_rule":"Compare localized contour/ink-boundary relationship."},
+    {"id":"M03","grade":null,"description":"Orioles logo region — logo registration, ink boundaries and relative spacing to blue panel.","comparison_rule":"Compare registration and localized ink relationships, not logo design alone."},
+    {"id":"M04","grade":null,"description":"Blue panel upper boundary — specific color transition and alignment relative to player image.","comparison_rule":"Compare boundary morphology and alignment."},
+    {"id":"M05","grade":null,"description":"Lower left corner — shape, rounding, edge profile, slight wear pattern and paper texture.","comparison_rule":"Compare physical corner morphology."},
+    {"id":"M06","grade":null,"description":"Lower right corner — shape, rounding, edge profile and visible dot near inner border.","comparison_rule":"Compare corner morphology and localized dot where evaluable."},
+    {"id":"M07","grade":null,"description":"Top left corner — shape, edge termination, slight rounding and paper texture.","comparison_rule":"Compare physical corner morphology."},
+    {"id":"M08","grade":null,"description":"Top right corner — shape, edge profile and small inner spot near border.","comparison_rule":"Compare corner morphology and localized spot where evaluable."},
+    {"id":"M09","grade":null,"description":"Portrait/background — small dark spot on Robinson cheek/face area, background print structures and light spot above left of cap.","comparison_rule":"Compare independently locatable marks and background structures; portrait artwork alone is insufficient."},
+    {"id":"M10","grade":null,"description":"Bottom border — width, edge profile and relationship to blue panel and both corners.","comparison_rule":"Compare border geometry and edge relationship."}
+  ]},
+  "verification":{"evidence_status":"M01-M10 IMAGE-CONFIRMED (2+ VIEWS)","physical_verification":"NOT PHYSICALLY VERIFIED","geometry":{"method":"calibrated image","reference_mm":{"width":68.0,"height":92.0},"card_mm":{"width":63.5,"height":88.9},"borders_mm":{"top":3.6,"bottom":2.6,"left":2.3,"right":2.7},"centering":{"left_right":"46% / 54%","top_bottom":"58% / 42%"}}},
+  "provenance":[],"market":{"status":"Not yet tracked","sales":[]},"images":[{"type":"fingerprint_map","version":"1.0","status":"preserved source asset in Library; repository asset migration pending"}],
+  "sources":[{"type":"fingerprint_map","title":"CardArchived Brooks Robinson Authentication Map","version":"1.0","date":"2026-09-18"}]
+}
