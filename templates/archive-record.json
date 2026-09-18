@@ -1,0 +1,18 @@
+{
+  "archive_id": "SL-000000",
+  "record_version": "1.0",
+  "archive_status": "DRAFT",
+  "permanent_path": "/records/SL-000000/",
+  "object": {"title":"","year":null,"manufacturer":null,"set":null,"card_number":null,"subject":null,"holder":null,"grade":null,"certification":null},
+  "creative_attribution": {"status":"Attribution Under Research","photographer":null,"illustrator":null,"designer":null,"notes":null},
+  "story": null,
+  "art": null,
+  "notables": [],
+  "why_this_object_matters": null,
+  "fingerprint": {"method":"image-derived / non-destructive","lock_status":"UNLOCKED","features":[]},
+  "verification": {"verify_this_card":null,"verify_authenticity":null},
+  "provenance": [],
+  "market": {"status":"Not yet tracked","sales":[]},
+  "images": [],
+  "sources": []
+}
