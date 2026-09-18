@@ -1,0 +1,8 @@
+{
+  "registry_version": "1.0",
+  "records": [
+    {"archive_id":"SL-000001","title":"Fantasia — Reel Piece of History","status":"MIGRATION_PENDING","path":"/records/SL-000001/"},
+    {"archive_id":"SL-000002","title":"1960 Topps #28 Brooks Robinson","status":"MIGRATION_PENDING","path":"/records/SL-000002/"},
+    {"archive_id":"SL-000003","title":"1950 Bowman #75 Roy Campanella","status":"REFERENCE_LOCKED","path":"/records/SL-000003/"}
+  ]
+}
