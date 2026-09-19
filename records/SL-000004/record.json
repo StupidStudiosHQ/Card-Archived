@@ -1,0 +1,43 @@
+{
+  "archive_id": "SL-000004",
+  "record_version": "1.0",
+  "archive_status": "REGISTERED / FINGERPRINT LOCKED",
+  "permanent_path": "/records/SL-000004/",
+  "object": {
+    "title": "Framed Mookie Wilson / Bill Buckner Signed Baseball Photograph",
+    "year": null,
+    "manufacturer": null,
+    "set": null,
+    "card_number": null,
+    "subject": "Mookie Wilson / Bill Buckner — 1986 World Series play",
+    "holder": "Framed display assembly",
+    "grade": null,
+    "certification": null
+  },
+  "creative_attribution": {"status":"Attribution Under Research","photographer":null,"illustrator":null,"designer":null,"notes":null},
+  "story": "Framed baseball photograph associated by its visible plaque with Mookie Wilson, Bill Buckner and the 1986 World Series play.",
+  "art": "Photographic sports display with two visible inscriptions/signatures, plaque, mat, reflective/holographic element and framed presentation.",
+  "notables": ["Two visible signatures/inscriptions", "Attached certificate/document packet", "Whole-object assembly fingerprint"],
+  "why_this_object_matters": "Demonstrates CardArchived whole-object fingerprinting for multi-component memorabilia rather than a trading card alone.",
+  "fingerprint": {
+    "method": "image-derived / non-destructive",
+    "lock_status": "LOCKED",
+    "features": [
+      "Frame corners and outer geometry",
+      "Two visible signature fields",
+      "Photographic scene landmarks",
+      "Plaque geometry/text",
+      "Reflective/holographic element",
+      "Mat/photo junctions",
+      "Backing-board perimeter and texture",
+      "Hanging-wire anchors and wire profile",
+      "Certificate/document package geometry",
+      "Tape/document junctions"
+    ]
+  },
+  "verification": {"verify_this_card":"Compare stable whole-object landmarks against the frozen baseline; exclude glare/perspective artifacts.","verify_authenticity":"No independent signature or certificate authentication is asserted by this record."},
+  "provenance": [{"type":"owner-supplied photography","status":"archived context"},{"type":"attached certificate/document packet","status":"presence documented; claims not independently verified"}],
+  "market": {"status":"Not yet tracked","sales":[]},
+  "images": ["Owner-supplied front assembly image", "Owner-supplied reverse assembly image", "Front fingerprint overlay", "Reverse fingerprint overlay"],
+  "sources": ["Owner-supplied photography"]
+}
