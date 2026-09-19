@@ -1,8 +1,10 @@
 {
-  "registry_version": "1.1",
+  "registry_version": "1.2",
   "records": [
     {"archive_id":"SL-000001","title":"Fantasia — Reel Piece of History","status":"REGISTERED / FINGERPRINT PENDING","path":"/records/SL-000001/"},
     {"archive_id":"SL-000002","title":"1960 Topps #28 Brooks Robinson","status":"REFERENCE LOCKED","path":"/records/SL-000002/"},
-    {"archive_id":"SL-000003","title":"1950 Bowman #75 Roy Campanella","status":"REFERENCE_LOCKED","path":"/records/SL-000003/"}
+    {"archive_id":"SL-000003","title":"1950 Bowman #75 Roy Campanella","status":"REFERENCE_LOCKED","path":"/records/SL-000003/"},
+    {"archive_id":"SL-000004","title":"Framed Mookie Wilson / Bill Buckner Signed Baseball Photograph","status":"REGISTERED / FINGERPRINT LOCKED","path":"/records/SL-000004/"},
+    {"archive_id":"SL-000005","title":"Larry Bird — Monster Hit: Lights Out! Autograph","status":"REGISTERED / FINGERPRINT LOCKED","path":"/records/SL-000005/"}
   ]
 }
