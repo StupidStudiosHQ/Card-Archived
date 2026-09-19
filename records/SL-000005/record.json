@@ -1,0 +1,45 @@
+{
+  "archive_id": "SL-000005",
+  "record_version": "1.0",
+  "archive_status": "REGISTERED / FINGERPRINT LOCKED",
+  "permanent_path": "/records/SL-000005/",
+  "object": {
+    "title": "Larry Bird — Monster Hit: Lights Out! Autograph",
+    "year": null,
+    "manufacturer": "Wild Card / National branding visible",
+    "set": "Monster Hit: Lights Out!",
+    "card_number": null,
+    "subject": "Larry Bird",
+    "holder": "Clear rigid display holder",
+    "grade": null,
+    "certification": null
+  },
+  "creative_attribution": {"status":"Attribution Under Research","photographer":null,"illustrator":null,"designer":null,"notes":null},
+  "story": "Larry Bird Monster Hit: Lights Out! autograph collectible with documented live reveal/rip evidence and acquisition documentation.",
+  "art": "Dark cinematic/horror-poster composition with centered athlete imagery, layered title treatment and integrated autograph field.",
+  "notables": ["Autograph field", "Documented live reveal/rip video", "$23 acquisition label", "Video master SHA-256 preserved"],
+  "why_this_object_matters": "Demonstrates CardArchived linking a specimen fingerprint to direct visual event provenance and digital evidence integrity.",
+  "fingerprint": {
+    "method": "image + video-derived / non-destructive",
+    "lock_status": "LOCKED",
+    "features": [
+      "F01 signature field geometry and visible ink path",
+      "F02 player image/silhouette placement",
+      "F03 lower title/name plaque geometry",
+      "F04 foil/print-highlight region",
+      "R01 reverse title typography",
+      "R02 Larry Bird/Forward text field",
+      "R03 National/Wild Card mark region",
+      "H01 holder corner geometry — holder context only"
+    ]
+  },
+  "verification": {"verify_this_card":"Compare stable card-level landmarks against the frozen baseline and separate holder evidence from card evidence.","verify_authenticity":"No independent autograph, manufacture or materials authentication is asserted."},
+  "provenance": [
+    {"type":"direct visual event documentation","event":"live sale / product opening / Larry Bird reveal","status":"documented in submitted video"},
+    {"type":"acquisition label","seller_context":"Prime Time Sports & Framing","lot_reference":"#025","price_usd":23,"timestamp":"2026-08-28T06:42:58","buyer_identifier":"Jatay2877"},
+    {"type":"digital evidence integrity","file":"submitted master MP4","sha256":"c09f1f026bb335c161c21939cada7dcdb1a99ca6aae768ea839793d0849fd8fc"}
+  ],
+  "market": {"status":"Acquisition documented","sales":[{"type":"acquisition","price_usd":23,"date":"2026-08-28"}]},
+  "images": ["Owner-supplied acquisition/object view", "Owner-supplied reverse view", "Owner-supplied front view", "Fingerprint overlays", "Selected video-frame derivatives"],
+  "sources": ["Owner-supplied photography", "Owner-supplied live-sale/rip video", "Prime Time Sports & Framing acquisition label visible in submitted photography"]
+}
